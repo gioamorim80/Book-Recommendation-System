@@ -1,2 +1,2 @@
 # Book-Recommendation-System
-a recommendation system built for book, based on Goodreads data
+a recommendation system built for books, based on Goodreads data
